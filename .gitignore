@@ -4,5 +4,3 @@ __pycache__/
 *.pyc
 test_database.py
 app.py
-*.csv
-b2b_données_csv
