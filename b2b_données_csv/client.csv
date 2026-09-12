@@ -1,0 +1,81 @@
+﻿Id Client,Nom Client,Adresse Siège,Raison Sociale,Secteur d'activité,Contact Client,Gestionnaire commercial,Fax,Téléphone,Email
+CLI-0001,Medi Partners,"246, Boulevard Hassan II, Fès",Medi Partners SARL,Industrie,Youssef El Amrani,Imane Alaoui,+212 545623371,+212 691966075,contact@medipartners.ma
+CLI-0002,Atlas Partners,"36, Boulevard Al Massira, Fès",Atlas Partners SA,Santé,Nadia Alaoui,Sara El Amrani,+212 564081272,+212 648020725,contact@atlaspartners.ma
+CLI-0003,Argan Digital,"79, Boulevard Anfa, Rabat",Argan Digital SA,Technologie,Youssef Bennis,Imane Alaoui,+212 524275808,+212 632378155,contact@argandigital.ma
+CLI-0004,Delta Industries,"88, Boulevard Mohammed V, Kénitra",Delta Industries SARL,Assurance,Amine Idrissi,Omar Idrissi,+212 574819043,+212 678810905,contact@deltaindustries.ma
+CLI-0005,Delta Solutions,"180, Boulevard Al Massira, Fès",Delta Solutions SA,Banque,Nadia Chraibi,Omar Idrissi,+212 570250933,+212 663561502,contact@deltasolutions.ma
+CLI-0006,Maghreb Services,"60, Boulevard Zerktouni, Fès",Maghreb Services SA,Technologie,Amine Alaoui,Imane Alaoui,+212 540724873,+212 664382590,contact@maghrebservices.ma
+CLI-0007,Horizon Services,"156, Boulevard Al Massira, Meknès",Horizon Services SARL,Industrie,Sara Chraibi,Imane Alaoui,+212 540216153,+212 628027099,contact@horizonservices.ma
+CLI-0008,Zenith Partners,"57, Boulevard Hassan II, Casablanca",Zenith Partners SA,Santé,Amine El Amrani,Omar Idrissi,+212 555836320,+212 653835675,contact@zenithpartners.ma
+CLI-0009,Maghreb Solutions,"150, Boulevard Mohammed V, Rabat",Maghreb Solutions SARL,Retail,Amine El Amrani,Omar Idrissi,+212 581712497,+212 658865917,contact@maghrebsolutions.ma
+CLI-0010,Sahara Logistics,"242, Boulevard Hassan II, Meknès",Sahara Logistics SA,Santé,Nadia Alaoui,Youssef Bennis,+212 535144267,+212 646402187,contact@saharalogistics.ma
+CLI-0011,Zenith Industries,"115, Boulevard Zerktouni, Casablanca",Zenith Industries SA,Industrie,Amine Alaoui,Youssef Bennis,+212 548969448,+212 602071138,contact@zenithindustries.ma
+CLI-0012,Sahara Group,"185, Boulevard Mohammed V, Rabat",Sahara Group SA,Banque,Nadia Idrissi,Omar Idrissi,+212 550618054,+212 611292208,contact@saharagroup.ma
+CLI-0013,Rif Partners,"96, Boulevard Al Massira, Casablanca",Rif Partners SARL,Retail,Youssef Chraibi,Imane Alaoui,+212 543954368,+212 678216669,contact@rifpartners.ma
+CLI-0014,Casatech Logistics,"112, Boulevard Zerktouni, Kénitra",Casatech Logistics SA,Industrie,Sara Chraibi,Youssef Bennis,+212 524786524,+212 651117260,contact@casatechlogistics.ma
+CLI-0015,Royal Industries,"66, Boulevard Al Massira, Marrakech",Royal Industries SA,Banque,Youssef Chraibi,Sara El Amrani,+212 578686965,+212 658304097,contact@royalindustries.ma
+CLI-0016,Atlas Digital,"200, Boulevard Al Massira, Marrakech",Atlas Digital SARL,Santé,Nadia Chraibi,Sara El Amrani,+212 588439228,+212 673078773,contact@atlasdigital.ma
+CLI-0017,Maghreb Digital,"54, Boulevard Anfa, Marrakech",Maghreb Digital SA,Éducation,Sara Idrissi,Omar Idrissi,+212 598607679,+212 631448920,contact@maghrebdigital.ma
+CLI-0018,Sahara Partners,"144, Boulevard Al Massira, Kénitra",Sahara Partners SARL,Hôtellerie,Sara Chraibi,Youssef Bennis,+212 541746708,+212 608707142,contact@saharapartners.ma
+CLI-0019,Nova Holding,"247, Boulevard Al Massira, Meknès",Nova Holding SA,Assurance,Imane Chraibi,Omar Idrissi,+212 569817370,+212 663909685,contact@novaholding.ma
+CLI-0020,Nour Services,"145, Boulevard Hassan II, Fès",Nour Services SARL,Logistique,Sara Chraibi,Sara El Amrani,+212 553362170,+212 630570072,contact@nourservices.ma
+CLI-0021,Maghreb Partners,"9, Boulevard Mohammed V, Kénitra",Maghreb Partners SARL,Logistique,Imane El Amrani,Omar Idrissi,+212 578086149,+212 660743351,contact@maghrebpartners.ma
+CLI-0022,Sahara Services,"108, Boulevard Anfa, Rabat",Sahara Services SARL,Retail,Sara Bennis,Youssef Bennis,+212 502934898,+212 623511142,contact@saharaservices.ma
+CLI-0023,Nova Group,"77, Boulevard Al Massira, Tanger",Nova Group SARL,Industrie,Sara Bennis,Sara El Amrani,+212 582304010,+212 654662756,contact@novagroup.ma
+CLI-0024,Casatech Holding,"161, Boulevard Anfa, Kénitra",Casatech Holding SA,Hôtellerie,Nadia Bennis,Sara El Amrani,+212 574392291,+212 672155074,contact@casatechholding.ma
+CLI-0025,Royal Services,"54, Boulevard Al Massira, Meknès",Royal Services SARL,Santé,Nadia Idrissi,Youssef Bennis,+212 573938882,+212 637282916,contact@royalservices.ma
+CLI-0026,Argan Solutions,"41, Boulevard Hassan II, Kénitra",Argan Solutions SARL,Assurance,Sara Bennis,Sara El Amrani,+212 508412763,+212 648344416,contact@argansolutions.ma
+CLI-0027,Sahara Solutions,"174, Boulevard Anfa, Meknès",Sahara Solutions SA,Retail,Imane Alaoui,Omar Idrissi,+212 508027688,+212 660009826,contact@saharasolutions.ma
+CLI-0028,Horizon Group,"25, Boulevard Zerktouni, Marrakech",Horizon Group SARL,Banque,Youssef Chraibi,Sara El Amrani,+212 577849322,+212 608668638,contact@horizongroup.ma
+CLI-0029,Horizon Solutions,"161, Boulevard Anfa, Marrakech",Horizon Solutions SARL,Industrie,Youssef El Amrani,Youssef Bennis,+212 546137168,+212 665179896,contact@horizonsolutions.ma
+CLI-0030,Delta Group,"148, Boulevard Zerktouni, Kénitra",Delta Group SARL,Logistique,Youssef Alaoui,Imane Alaoui,+212 572058289,+212 656178027,contact@deltagroup.ma
+CLI-0031,Nour Holding,"189, Boulevard Anfa, Fès",Nour Holding SARL,Industrie,Nadia Idrissi,Imane Alaoui,+212 513052409,+212 677710262,contact@nourholding.ma
+CLI-0032,Royal Partners,"160, Boulevard Mohammed V, Tanger",Royal Partners SARL,Assurance,Amine Bennis,Sara El Amrani,+212 536384039,+212 616019434,contact@royalpartners.ma
+CLI-0033,Delta Partners,"128, Boulevard Zerktouni, Tanger",Delta Partners SARL,Technologie,Amine Idrissi,Omar Idrissi,+212 580580936,+212 635940252,contact@deltapartners.ma
+CLI-0034,Rif Services,"172, Boulevard Mohammed V, Tanger",Rif Services SA,Industrie,Sara Alaoui,Imane Alaoui,+212 502344792,+212 621165978,contact@rifservices.ma
+CLI-0035,Atlas Solutions,"86, Boulevard Hassan II, Rabat",Atlas Solutions SARL,Retail,Sara Bennis,Sara El Amrani,+212 573118101,+212 689144622,contact@atlassolutions.ma
+CLI-0036,Casatech Digital,"202, Boulevard Hassan II, Marrakech",Casatech Digital SARL,Assurance,Amine Chraibi,Omar Idrissi,+212 529457278,+212 673377362,contact@casatechdigital.ma
+CLI-0037,Medi Logistics,"92, Boulevard Hassan II, Kénitra",Medi Logistics SA,Hôtellerie,Youssef Chraibi,Sara El Amrani,+212 574170155,+212 659353501,contact@medilogistics.ma
+CLI-0038,Atlas Holding,"166, Boulevard Mohammed V, Marrakech",Atlas Holding SARL,Assurance,Amine Alaoui,Youssef Bennis,+212 539645037,+212 628540562,contact@atlasholding.ma
+CLI-0039,Argan Services,"166, Boulevard Anfa, Casablanca",Argan Services SARL,Assurance,Imane Chraibi,Omar Idrissi,+212 532727318,+212 626724919,contact@arganservices.ma
+CLI-0040,Maroc Group,"204, Boulevard Hassan II, Meknès",Maroc Group SARL,Technologie,Youssef Idrissi,Youssef Bennis,+212 517076225,+212 626822283,contact@marocgroup.ma
+CLI-0041,Maghreb Logistics,"119, Boulevard Al Massira, Casablanca",Maghreb Logistics SARL,Hôtellerie,Nadia Idrissi,Sara El Amrani,+212 532028786,+212 632102555,contact@maghreblogistics.ma
+CLI-0042,Casatech Partners,"220, Boulevard Hassan II, Marrakech",Casatech Partners SARL,Technologie,Amine Bennis,Imane Alaoui,+212 503753242,+212 617895697,contact@casatechpartners.ma
+CLI-0043,Royal Digital,"83, Boulevard Hassan II, Agadir",Royal Digital SARL,Hôtellerie,Youssef Chraibi,Youssef Bennis,+212 565709426,+212 638122623,contact@royaldigital.ma
+CLI-0044,Nova Partners,"142, Boulevard Mohammed V, Tanger",Nova Partners SA,Logistique,Sara Idrissi,Imane Alaoui,+212 531410296,+212 681394826,contact@novapartners.ma
+CLI-0045,Rif Logistics,"215, Boulevard Anfa, Meknès",Rif Logistics SARL,Technologie,Youssef Chraibi,Omar Idrissi,+212 537701543,+212 687767729,contact@riflogistics.ma
+CLI-0046,Nour Solutions,"100, Boulevard Zerktouni, Rabat",Nour Solutions SARL,Hôtellerie,Youssef Idrissi,Omar Idrissi,+212 598754604,+212 662740437,contact@noursolutions.ma
+CLI-0047,Casatech Group,"161, Boulevard Hassan II, Meknès",Casatech Group SARL,Santé,Nadia Alaoui,Sara El Amrani,+212 508427074,+212 638951251,contact@casatechgroup.ma
+CLI-0048,Horizon Industries,"84, Boulevard Mohammed V, Tanger",Horizon Industries SARL,Assurance,Nadia Chraibi,Youssef Bennis,+212 595841134,+212 605496398,contact@horizonindustries.ma
+CLI-0049,Maroc Solutions,"8, Boulevard Zerktouni, Casablanca",Maroc Solutions SARL,Technologie,Imane El Amrani,Youssef Bennis,+212 529553803,+212 635840626,contact@marocsolutions.ma
+CLI-0050,Royal Holding,"96, Boulevard Hassan II, Meknès",Royal Holding SARL,Industrie,Imane Chraibi,Sara El Amrani,+212 531359790,+212 628608480,contact@royalholding.ma
+CLI-0051,Casatech Industries,"205, Boulevard Al Massira, Meknès",Casatech Industries SARL,Banque,Youssef Idrissi,Imane Alaoui,+212 578785291,+212 635652526,contact@casatechindustries.ma
+CLI-0052,Zenith Services,"16, Boulevard Mohammed V, Agadir",Zenith Services SA,Retail,Youssef El Amrani,Youssef Bennis,+212 567756116,+212 669026005,contact@zenithservices.ma
+CLI-0053,Medi Holding,"248, Boulevard Hassan II, Meknès",Medi Holding SARL,Santé,Sara Idrissi,Sara El Amrani,+212 589636409,+212 635149667,contact@mediholding.ma
+CLI-0054,Maroc Partners,"32, Boulevard Zerktouni, Casablanca",Maroc Partners SARL,Éducation,Imane Chraibi,Imane Alaoui,+212 583911214,+212 675991129,contact@marocpartners.ma
+CLI-0055,Maroc Digital,"70, Boulevard Mohammed V, Meknès",Maroc Digital SARL,Éducation,Imane El Amrani,Imane Alaoui,+212 553871209,+212 638093953,contact@marocdigital.ma
+CLI-0056,Medi Industries,"161, Boulevard Zerktouni, Meknès",Medi Industries SARL,Logistique,Imane Bennis,Sara El Amrani,+212 562578974,+212 661983004,contact@mediindustries.ma
+CLI-0057,Zenith Digital,"107, Boulevard Zerktouni, Rabat",Zenith Digital SARL,Technologie,Imane El Amrani,Sara El Amrani,+212 566207453,+212 690423983,contact@zenithdigital.ma
+CLI-0058,Medi Services,"214, Boulevard Al Massira, Meknès",Medi Services SARL,Assurance,Youssef Alaoui,Youssef Bennis,+212 561128597,+212 699918580,contact@mediservices.ma
+CLI-0059,Casatech Services,"174, Boulevard Hassan II, Kénitra",Casatech Services SARL,Santé,Sara Idrissi,Sara El Amrani,+212 577107596,+212 689178260,contact@casatechservices.ma
+CLI-0060,Medi Digital,"247, Boulevard Mohammed V, Agadir",Medi Digital SARL,Retail,Youssef Chraibi,Imane Alaoui,+212 543090214,+212 691504320,contact@medidigital.ma
+CLI-0061,Maghreb Holding,"166, Boulevard Mohammed V, Tanger",Maghreb Holding SA,Logistique,Sara Alaoui,Omar Idrissi,+212 537140495,+212 606550674,contact@maghrebholding.ma
+CLI-0062,Delta Digital,"123, Boulevard Zerktouni, Tanger",Delta Digital SARL,Logistique,Imane Idrissi,Sara El Amrani,+212 550501923,+212 647389489,contact@deltadigital.ma
+CLI-0063,Nour Industries,"20, Boulevard Al Massira, Fès",Nour Industries SARL,Logistique,Nadia Idrissi,Omar Idrissi,+212 517928358,+212 678090175,contact@nourindustries.ma
+CLI-0064,Casatech Solutions,"248, Boulevard Anfa, Marrakech",Casatech Solutions SARL,Assurance,Amine Alaoui,Omar Idrissi,+212 583207978,+212 676269771,contact@casatechsolutions.ma
+CLI-0065,Argan Group,"160, Boulevard Al Massira, Tanger",Argan Group SA,Éducation,Imane Bennis,Sara El Amrani,+212 504938272,+212 624770146,contact@argangroup.ma
+CLI-0066,Nova Digital,"20, Boulevard Zerktouni, Marrakech",Nova Digital SARL,Industrie,Amine Idrissi,Sara El Amrani,+212 553195162,+212 668603173,contact@novadigital.ma
+CLI-0067,Atlas Logistics,"15, Boulevard Al Massira, Kénitra",Atlas Logistics SA,Banque,Youssef Bennis,Youssef Bennis,+212 507993702,+212 644190516,contact@atlaslogistics.ma
+CLI-0068,Nova Services,"57, Boulevard Hassan II, Tanger",Nova Services SARL,Assurance,Youssef El Amrani,Imane Alaoui,+212 555878161,+212 642132877,contact@novaservices.ma
+CLI-0069,Delta Holding,"71, Boulevard Zerktouni, Rabat",Delta Holding SARL,Éducation,Amine Idrissi,Imane Alaoui,+212 577666567,+212 657126570,contact@deltaholding.ma
+CLI-0070,Nova Solutions,"164, Boulevard Mohammed V, Meknès",Nova Solutions SARL,Retail,Imane Alaoui,Sara El Amrani,+212 546932418,+212 661651943,contact@novasolutions.ma
+CLI-0071,Maghreb Industries,"67, Boulevard Hassan II, Fès",Maghreb Industries SARL,Technologie,Youssef Chraibi,Omar Idrissi,+212 572357671,+212 621294311,contact@maghrebindustries.ma
+CLI-0072,Argan Logistics,"226, Boulevard Zerktouni, Casablanca",Argan Logistics SARL,Assurance,Sara El Amrani,Youssef Bennis,+212 595514775,+212 632841326,contact@arganlogistics.ma
+CLI-0073,Horizon Logistics,"203, Boulevard Al Massira, Agadir",Horizon Logistics SA,Assurance,Imane Chraibi,Youssef Bennis,+212 541731025,+212 601723844,contact@horizonlogistics.ma
+CLI-0074,Royal Logistics,"5, Boulevard Zerktouni, Agadir",Royal Logistics SARL,Santé,Imane Alaoui,Omar Idrissi,+212 583390255,+212 637645981,contact@royallogistics.ma
+CLI-0075,Argan Industries,"149, Boulevard Anfa, Rabat",Argan Industries SARL,Industrie,Sara Alaoui,Omar Idrissi,+212 550930890,+212 686391523,contact@arganindustries.ma
+CLI-0076,Maghreb Group,"53, Boulevard Al Massira, Agadir",Maghreb Group SARL,Assurance,Nadia El Amrani,Omar Idrissi,+212 565190837,+212 674869089,contact@maghrebgroup.ma
+CLI-0077,Zenith Group,"61, Boulevard Hassan II, Fès",Zenith Group SA,Assurance,Sara El Amrani,Youssef Bennis,+212 561013939,+212 623615021,contact@zenithgroup.ma
+CLI-0078,Rif Group,"226, Boulevard Mohammed V, Agadir",Rif Group SARL,Hôtellerie,Imane Bennis,Imane Alaoui,+212 537278901,+212 643439898,contact@rifgroup.ma
+CLI-0079,Nour Group,"1, Boulevard Mohammed V, Agadir",Nour Group SARL,Éducation,Youssef Chraibi,Sara El Amrani,+212 587973735,+212 607440518,contact@nourgroup.ma
+CLI-0080,Sahara Holding,"196, Boulevard Zerktouni, Meknès",Sahara Holding SA,Retail,Amine El Amrani,Omar Idrissi,+212 572389109,+212 685016985,contact@saharaholding.ma
